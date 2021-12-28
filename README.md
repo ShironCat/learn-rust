@@ -1,46 +1,34 @@
-# Learning Rust through Interview Questions
+# Learning Rust through Interview Questions Template
 
-This reposity is the product of my first in earnest attempt to
-learn [Rust](http://www.rust-lang.org/).
+This repository is a fork from [Brian Quinlan](https://github.com/brianquinlan)'s [learn-rust](https://github.com/brianquinlan/learn-rust) with their original solutions removed to serve as a template for those who wish to learn [Rust](https://www.rust-lang.org/).
 
-I didn't have a particular probem to tackle so I used job interview
-coding questions that I found on the internet. In particular,
-["Hacking a Google Interview"](http://courses.csail.mit.edu/iap/interview/materials.php)
-contains a lot of interesting questions.
+## Questions
 
-Since this was a learning project, some of the code might not be
-idiomatic (or even sane). Corrections are welcome and can be
-sent in the form of pull requests or an email to brian@sweetapp.com.
+The following is the list of questions in order of increasing difficulty.
 
-## Understandability
-
-Assuming that you are a programmer unfamiliar with Rust, here is my
-arrangement of problems in order of increasing difficult to understand
-algorithms and Rust idioms.
-
-* [printmult](https://github.com/brianquinlan/learn-rust/tree/master/printmult) -
+1. [printmult](./printmult) -
   Print the 12x12 multiplication table.
-* [fizzbuzz](https://github.com/brianquinlan/learn-rust/tree/master/fizzbuzz) -
+2. [fizzbuzz](./fizzbuzz) -
   Count to 100 using the words "Fizz", "Buzz" and "FizzBuzz".
-* [oddman](https://github.com/brianquinlan/learn-rust/blob/master/oddman) -
+3. [oddman](./oddman) -
   Find the missing integer in a list.
-* [substring](https://github.com/brianquinlan/learn-rust/tree/master/substring) -
+4. [substring](./substring) -
   Determine if a string is a substring of another.
-* [sumfile](https://github.com/brianquinlan/learn-rust/tree/master/sumfile) -
+5. [sumfile](./sumfile) -
   Sum the contents of a text file.
-* [targetsum](https://github.com/brianquinlan/learn-rust/tree/master/targetsum) -
+6. [targetsum](./targetsum) -
   Find pairs in a list that sum to a value.
-* [addlist](https://github.com/brianquinlan/learn-rust/tree/master/addlist) -
+7. [addlist](./addlist) -
   Increment a number represented as a linked-list.
-* [pancake](https://github.com/brianquinlan/learn-rust/tree/master/pancake) -
+8. [pancake](./pancake) -
   Sort a list using a function that reverse the list between [0..n].
-* [validbtree](https://github.com/brianquinlan/learn-rust/tree/master/validbtree) -
+9. [validbtree](./validbtree) -
   Determine if a binary tree is valid.
-* [reversewords](https://github.com/brianquinlan/learn-rust/tree/master/reversewords) -
+10. [reversewords](./reversewords) -
   Reverse the words in a string.
-* [minstack](https://github.com/brianquinlan/learn-rust/tree/master/minstack) -
+11. [minstack](./minstack) -
   Implement a stack with O(1) getMinimumValue.
-* [bestpath](https://github.com/brianquinlan/learn-rust/tree/master/bestpath) -
+12. [bestpath](./bestpath) -
   Return the fastest path through a maze.
-* [i18n](https://github.com/brianquinlan/learn-rust/tree/master/i18n) -
+13. [i18n](./i18n) -
   Expand patterns like "i18n".

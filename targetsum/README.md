@@ -1,4 +1,3 @@
-
 # Find a Pair of Integers that Sum to a Specified Value
 
 ## Problem

@@ -1,4 +1,4 @@
-# Odd  Man  Out
+# Odd Man Out
 
 ## Problem
 
